@@ -1,0 +1,14 @@
+/Users/nergiznadirli/Desktop/praktika12011/praktika12011/bin/Debug/netcoreapp3.1/praktika12011
+/Users/nergiznadirli/Desktop/praktika12011/praktika12011/bin/Debug/netcoreapp3.1/praktika12011.deps.json
+/Users/nergiznadirli/Desktop/praktika12011/praktika12011/bin/Debug/netcoreapp3.1/praktika12011.runtimeconfig.json
+/Users/nergiznadirli/Desktop/praktika12011/praktika12011/bin/Debug/netcoreapp3.1/praktika12011.runtimeconfig.dev.json
+/Users/nergiznadirli/Desktop/praktika12011/praktika12011/bin/Debug/netcoreapp3.1/praktika12011.dll
+/Users/nergiznadirli/Desktop/praktika12011/praktika12011/bin/Debug/netcoreapp3.1/praktika12011.pdb
+/Users/nergiznadirli/Desktop/praktika12011/praktika12011/obj/Debug/netcoreapp3.1/praktika12011.csproj.AssemblyReference.cache
+/Users/nergiznadirli/Desktop/praktika12011/praktika12011/obj/Debug/netcoreapp3.1/praktika12011.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nergiznadirli/Desktop/praktika12011/praktika12011/obj/Debug/netcoreapp3.1/praktika12011.AssemblyInfoInputs.cache
+/Users/nergiznadirli/Desktop/praktika12011/praktika12011/obj/Debug/netcoreapp3.1/praktika12011.AssemblyInfo.cs
+/Users/nergiznadirli/Desktop/praktika12011/praktika12011/obj/Debug/netcoreapp3.1/praktika12011.csproj.CoreCompileInputs.cache
+/Users/nergiznadirli/Desktop/praktika12011/praktika12011/obj/Debug/netcoreapp3.1/praktika12011.dll
+/Users/nergiznadirli/Desktop/praktika12011/praktika12011/obj/Debug/netcoreapp3.1/praktika12011.pdb
+/Users/nergiznadirli/Desktop/praktika12011/praktika12011/obj/Debug/netcoreapp3.1/praktika12011.genruntimeconfig.cache
